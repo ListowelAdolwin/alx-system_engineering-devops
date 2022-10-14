@@ -1,3 +1,4 @@
+# Create a file with specified conditions in /tmp
 file { '/tmp/school':
   ensure  => 'file',
   content => 'I love Puppet',
