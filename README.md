@@ -30,6 +30,3 @@
 - [0x11](./0x11-what_happens_when_your_type_google_com_in_your_browser_and_press_enter) : What happens when you type holbertonschool.com in your browser and press Enter.
 - [0x12](./0x12-web_stack_debugging_2) : Web stack debugging #2.
 - [0x13](./0x13-firewall) : Firewall.
-- [0x14](./0x14-mysql) : MySQL.
-- [0x15](./0x15-api) : API.
-- [Attack is the best defense.](./attack_is_the_best_defense)
